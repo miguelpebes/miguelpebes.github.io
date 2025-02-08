@@ -1,0 +1,4 @@
+.div { /* to center everything with a fix width*/
+    width:800px;
+    margin:0 auto;
+  }
